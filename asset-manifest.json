@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/textutils/static/css/main.666e1eb7.css",
+    "main.js": "/textutils/static/js/main.4b222c09.js",
+    "static/js/787.719ec76d.chunk.js": "/textutils/static/js/787.719ec76d.chunk.js",
+    "static/media/undraw_writer_q06d.png": "/textutils/static/media/undraw_writer_q06d.f93f1e773b557ffae258.png",
+    "index.html": "/textutils/index.html",
+    "main.666e1eb7.css.map": "/textutils/static/css/main.666e1eb7.css.map",
+    "main.4b222c09.js.map": "/textutils/static/js/main.4b222c09.js.map",
+    "787.719ec76d.chunk.js.map": "/textutils/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.666e1eb7.css",
+    "static/js/main.4b222c09.js"
+  ]
+}
